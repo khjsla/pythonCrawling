@@ -1,5 +1,19 @@
 # Python_Crawling
-### Crawling Instagram Data with Python
+## Crawling Instagram Data with Python
+
+<br>
+
+### [HOW TO RUN]
+
+```
+python3 crawling.py
+#OR
+python crawling.py
+```
+
+<br>
+
+### [HOW TO USE]
 
 - YOUR_INSTA_ID
 - YOUR_INSTA_PASSWORD
@@ -10,6 +24,10 @@
 원하는 계정의 <= ID + PASSWORD 
 <br>
 원하는 게시물의 데이터 크롤링 가능 <= CONTENT_NUMBER
+
+<br>
+
+### [ .env ]
 
 - [VSCode + venu Python 가상환경](https://ddochea.tistory.com/33) 에서 Programmed
 
