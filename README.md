@@ -8,9 +8,6 @@ python3 crawling.py
 #OR
 python crawling.py
 ```
-
-<br>
-
 ### [HOW TO USE]
 
 - YOUR_INSTA_ID
@@ -22,8 +19,6 @@ python crawling.py
 원하는 계정의 <= ID + PASSWORD 
 <br>
 원하는 게시물의 데이터 크롤링 가능 <= CONTENT_NUMBER
-
-<br>
 
 ### [ .env ]
 
