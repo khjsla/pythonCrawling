@@ -1,8 +1,6 @@
 # Python_Crawling
 ## Crawling Instagram Data with Python
 
-<br>
-
 ### [HOW TO RUN]
 
 ```
